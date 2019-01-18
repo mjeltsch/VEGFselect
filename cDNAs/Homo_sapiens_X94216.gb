@@ -1,0 +1,91 @@
+LOCUS       X94216                  1997 bp    mRNA    linear   PRI 18-APR-2005
+DEFINITION  H.sapiens mRNA for VEGF-C protein.
+ACCESSION   X94216
+VERSION     X94216.1
+KEYWORDS    growth factor; VEGF-C gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Joukov,V., Pajusola,K., Kaipainen,A., Chilov,D., Lahtinen,I.,
+            Kukk,E., Saksela,O., Kalkkinen,N. and Alitalo,K.
+  TITLE     A novel vascular endothelial growth factor, VEGF-C, is a ligand for
+            the Flt4 (VEGFR-3) and KDR (VEGFR-2) receptor tyrosine kinases
+  JOURNAL   EMBO J. 15 (2), 290-298 (1996)
+   PUBMED   8617204
+  REMARK    Erratum:[EMBO J. 1996 Apr 1;15(7):1751. PMID: 8612600]
+REFERENCE   2  (bases 1 to 1997)
+  AUTHORS   Joukov,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-1995) V. Joukov, Molecular/Cancer Biology
+            Laboratory, Haartman Institute, University of Helsinki, PO Box 21
+            (Haartmaninkatu 3), SF - 00014 Helsiniki, FINLAND
+  REMARK    Revised by author 26-JAN-96
+FEATURES             Location/Qualifiers
+     source          1..1997
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="PC-3 (ATCC CRL 1435)"
+     gene            1..1997
+                     /gene="VEGF-C"
+     CDS             352..1611
+                     /gene="VEGF-C"
+                     /function="growth factor"
+                     /codon_start=1
+                     /protein_id="CAA63907.1"
+                     /db_xref="GDB:3890883"
+                     /db_xref="GOA:P49767"
+                     /db_xref="HGNC:HGNC:12682"
+                     /db_xref="InterPro:IPR000072"
+                     /db_xref="InterPro:IPR004153"
+                     /db_xref="PDB:2X1W"
+                     /db_xref="PDB:2X1X"
+                     /db_xref="UniProtKB/Swiss-Prot:P49767"
+                     /translation="MHLLGFFSVACSLLAAALLPGPREAPAAAAAFESGLDLSDAEPD
+                     AGEATAYASKDLEEQLRSVSSVDELMTVLYPEYWKMYKCQLRKGGWQHNREQANLNSR
+                     TEETIKFAAAHYNTEILKSIDNEWRKTQCMPREVCIDVGKEFGVATNTFFKPPCVSVY
+                     RCGGCCNSEGLQCMNTSTSYLSKTLFEITVPLSQGPKPVTISFANHTSCRCMSKLDVY
+                     RQVHSIIRRSLPATLPQCQAANKTCPTNYMWNNHICRCLAQEDFMFSSDAGDDSTDGF
+                     HDICGPNKELDEETCQCVCRAGLRPASCGPHKELDRNSCQCVCKNKLFPSQCGANREF
+                     DENTCQCVCKRTCPRNQPLNPGKCACECTESPQKCLLKGKKFHHQTCSCYRRPCTNRQ
+                     KACEPGFSYSEEVCRCVPSYWKRPQMS"
+ORIGIN      
+        1 cccgccccgc ctctccaaaa agctacaccg acgcggaccg cggcggcgtc ctccctcgcc
+       61 ctcgcttcac ctcgcgggct ccgaatgcgg ggagctcgga tgtccggttt cctgtgaggc
+      121 ttttacctga cacccgccgc ctttccccgg cactggctgg gagggcgccc tgcaaagttg
+      181 ggaacgcgga gccccggacc cgctcccgcc gcctccggct cgcccagggg gggtcgccgg
+      241 gaggagcccg ggggagaggg accaggaggg gcccgcggcc tcgcaggggc gcccgcgccc
+      301 ccacccctgc ccccgccagc ggaccggtcc cccacccccg gtccttccac catgcacttg
+      361 ctgggcttct tctctgtggc gtgttctctg ctcgccgctg cgctgctccc gggtcctcgc
+      421 gaggcgcccg ccgccgccgc cgccttcgag tccggactcg acctctcgga cgcggagccc
+      481 gacgcgggcg aggccacggc ttatgcaagc aaagatctgg aggagcagtt acggtctgtg
+      541 tccagtgtag atgaactcat gactgtactc tacccagaat attggaaaat gtacaagtgt
+      601 cagctaagga aaggaggctg gcaacataac agagaacagg ccaacctcaa ctcaaggaca
+      661 gaagagacta taaaatttgc tgcagcacat tataatacag agatcttgaa aagtattgat
+      721 aatgagtgga gaaagactca atgcatgcca cgggaggtgt gtatagatgt ggggaaggag
+      781 tttggagtcg cgacaaacac cttctttaaa cctccatgtg tgtccgtcta cagatgtggg
+      841 ggttgctgca atagtgaggg gctgcagtgc atgaacacca gcacgagcta cctcagcaag
+      901 acgttatttg aaattacagt gcctctctct caaggcccca aaccagtaac aatcagtttt
+      961 gccaatcaca cttcctgccg atgcatgtct aaactggatg tttacagaca agttcattcc
+     1021 attattagac gttccctgcc agcaacacta ccacagtgtc aggcagcgaa caagacctgc
+     1081 cccaccaatt acatgtggaa taatcacatc tgcagatgcc tggctcagga agattttatg
+     1141 ttttcctcgg atgctggaga tgactcaaca gatggattcc atgacatctg tggaccaaac
+     1201 aaggagctgg atgaagagac ctgtcagtgt gtctgcagag cggggcttcg gcctgccagc
+     1261 tgtggacccc acaaagaact agacagaaac tcatgccagt gtgtctgtaa aaacaaactc
+     1321 ttccccagcc aatgtggggc caaccgagaa tttgatgaaa acacatgcca gtgtgtatgt
+     1381 aaaagaacct gccccagaaa tcaaccccta aatcctggaa aatgtgcctg tgaatgtaca
+     1441 gaaagtccac agaaatgctt gttaaaagga aagaagttcc accaccaaac atgcagctgt
+     1501 tacagacggc catgtacgaa ccgccagaag gcttgtgagc caggattttc atatagtgaa
+     1561 gaagtgtgtc gttgtgtccc ttcatattgg aaaagaccac aaatgagcta agattgtact
+     1621 gttttccagt tcatcgattt tctattatgg aaaactgtgt tgccacagta gaactgtctg
+     1681 tgaacagaga gacccttgtg ggtccatgct aacaaagaca aaagtctgtc tttcctgaac
+     1741 catgtggata actttacaga aatggactgg agctcatctg caaaaggcct cttgtaaaga
+     1801 ctggttttct gccaatgacc aaacagccaa gattttcctc ttgtgatttc tttaaaagaa
+     1861 tgactatata atttatttcc actaaaaata ttgtttctgc attcattttt atagcaacaa
+     1921 caattggtaa aactcactgt gatcaatatt tttatatcat gcaaaatatg tttaaaataa
+     1981 aatgaaaatt gtattat
+//
+

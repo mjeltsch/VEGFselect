@@ -1,0 +1,122 @@
+LOCUS       XM_007895924            1904 bp    mRNA    linear   VRT 09-MAY-2014
+DEFINITION  PREDICTED: Callorhinchus milii vascular endothelial growth factor C
+            (vegfc), mRNA.
+ACCESSION   XM_007895924
+VERSION     XM_007895924.1
+DBLINK      BioProject: PRJNA236996
+KEYWORDS    RefSeq; corrected model.
+SOURCE      Callorhinchus milii (elephant shark)
+  ORGANISM  Callorhinchus milii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Chondrichthyes;
+            Holocephali; Chimaeriformes; Callorhinchidae; Callorhinchus.
+REFERENCE   1  (bases 1 to 1904)
+  AUTHORS   Venkatesh,B., Lee,A.P., Ravi,V., Maurya,A.K., Lian,M.M.,
+            Swann,J.B., Ohta,Y., Flajnik,M.F., Sutoh,Y., Kasahara,M., Hoon,S.,
+            Gangu,V., Roy,S.W., Irimia,M., Korzh,V., Kondrychyn,I., Lim,Z.W.,
+            Tay,B.H., Tohari,S., Kong,K.W., Ho,S., Lorente-Galdos,B.,
+            Quilez,J., Marques-Bonet,T., Raney,B.J., Ingham,P.W., Tay,A.,
+            Hillier,L.W., Minx,P., Boehm,T., Wilson,R.K., Brenner,S. and
+            Warren,W.C.
+  TITLE     Elephant shark genome provides unique insights into gnathostome
+            evolution
+  JOURNAL   Nature 505 (7482), 174-179 (2014)
+   PUBMED   24402279
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_006890096.1) and transcript sequence (JW866286.1) annotated
+            using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Callorhinchus milii Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 6.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            assembly gap :: added 128 transcript bases to patch genome assembly
+                            gap
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-128               JW866286.1         1-128
+            129-332             AAVX02014177.1     1-204
+            333-549             AAVX02014180.1     65968-66184
+            550-740             AAVX02014180.1     71785-71975
+            741-892             AAVX02014180.1     77444-77595
+            893-1005            AAVX02014180.1     87938-88050
+            1006-1336           AAVX02014180.1     95446-95776
+            1337-1904           AAVX02014180.1     97627-98194
+FEATURES             Location/Qualifiers
+     source          1..1904
+                     /organism="Callorhinchus milii"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7868"
+                     /chromosome="Unknown"
+     gene            1..1904
+                     /gene="vegfc"
+                     /note="The sequence of the model RefSeq transcript was
+                     modified relative to its source genomic sequence to
+                     represent the inferred CDS: added 128 bases not found in
+                     genome assembly; Derived by automated computational
+                     analysis using gene prediction method: Gnomon. Supporting
+                     evidence includes similarity to: 8 Proteins, and 100%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments, including 10 samples with support for all
+                     annotated introns"
+                     /db_xref="GeneID:103180215"
+     CDS             180..1457
+                     /gene="vegfc"
+                     /codon_start=1
+                     /product="vascular endothelial growth factor C"
+                     /protein_id="XP_007894115.1"
+                     /db_xref="GeneID:103180215"
+                     /translation="MLCCSTNTNMLMLEISLFLLYIVQRDCAYESSQDYDDDDDDEDY
+                     HDLGQSEGHLSSELEQQLRSVSSVDELMTILYPEHWKMLKCHSMKGSRAHDHFREVGL
+                     DTATEEPVTFAAIYSNPEILRSIDIEWKKTQCMPREVCLDVGKEFGSPTNTIFKPSCV
+                     SIYRCGGCCNSEGLICTNTSTSHVPKSLFEIVMPLSQGAKPVTISVANHTSCRCMSKL
+                     DHFRQIHSIIRRSLPTSHSDCHKTNKTCSKNHTWNNYFCRCVLQHDFSSFMPPKRDTD
+                     GDTGFHVCGPNKELDEDTCQCVCKGGLHHSSCGAHKELDKELCQCVCRNGLYPGICGP
+                     HRQFDADSCECICKKSCPRNHPLNPAKCVCECTESPNKCFLKGKRFHPQTCSCFRPPC
+                     VVRTRRCSQGYYFSEEVCRCIPLHWRRSHIDYY"
+ORIGIN      
+        1 agggtcaagt cgctggagtg gcgggtgggg gggggggggg aggtggttgg tgttgtgttg
+       61 gcgttgcatt tgacccacaa ggacccagga cgaggaattt ttttctctct ctctctccct
+      121 ctcctctttt ttttaaaaaa actacgtgtt gctgcagcgc agagggtcgg agctgattta
+      181 tgttgtgttg cagcacaaac acaaacatgc tcatgctgga gatctctctg tttttgcttt
+      241 acattgtgca aagggactgc gcttacgaat ccagccaaga ctatgacgat gacgacgatg
+      301 atgaagatta tcacgatctg gggcaatccg agggtcattt gagcagtgag ctggaacaac
+      361 agttgcgatc agtctccagt gtggatgaac tcatgacgat attgtatccg gaacactgga
+      421 aaatgttaaa atgccattcg atgaaaggca gccgagcgca tgatcacttc agagaagttg
+      481 gcttggacac agccactgag gagcctgtga ctttcgcagc gatatattct aaccccgaga
+      541 ttctaagaag tattgacatt gagtggaaaa agactcagtg catgcccagg gaggtgtgtt
+      601 tggacgtggg gaaagaattt gggtcaccga caaacaccat ctttaaaccg tcctgcgtgt
+      661 ctatctacag atgtggtggc tgttgcaaca gcgagggact aatatgtacg aacaccagta
+      721 cttcgcatgt tcccaaatca ctgtttgaga ttgtgatgcc actgtcacaa ggagccaaac
+      781 ccgtaaccat cagcgtcgca aatcacacaa gctgcagatg tatgtcaaaa ctggatcatt
+      841 tcaggcagat ccactccatc atcagacgtt ctctacctac gtcccattca gattgtcata
+      901 agaccaacaa aacctgttcc aaaaatcaca cctggaataa ttatttctgc agatgtgtct
+      961 tgcagcacga cttcagcagt tttatgcccc caaaaaggga tacagatgga gacactggct
+     1021 ttcacgtctg tgggccaaat aaagagcttg atgaagatac ctgtcagtgt gtatgtaaag
+     1081 gtggtttgca ccattccagc tgtggagccc acaaggaact ggataaagaa ttgtgccagt
+     1141 gtgtgtgcag aaatggactg tatccgggca tatgtggacc ccataggcag tttgatgcag
+     1201 attcttgcga gtgcatttgc aaaaaaagct gcccgagaaa tcacccttta aatccagcga
+     1261 aatgcgtctg tgaatgtaca gaatctccaa acaaatgctt tctgaaagga aagagatttc
+     1321 atcctcaaac ctgcagttgc ttcaggccac cctgtgtagt tcgaacaagg cgctgcagcc
+     1381 aaggttatta cttcagtgag gaggtgtgtc gctgtattcc attacattgg agaagatcgc
+     1441 atattgatta ttattgacag cgatttagtt tctttggcaa aagaacaatt ttcacaattt
+     1501 cacacggaca catctgccat gaggtgaaca ttgtataaaa gaatacatag tattttacat
+     1561 gttgcattca tacgtacacc agagacccaa gaggcgcgaa ggagccctgg cactggacat
+     1621 tcaaacgaca tgcagaaata caatgtagat tactacattg tcacacaagg aactcaccat
+     1681 gaacttcatg tgatacgcca atgaccaaaa ggtctagatt tttgtcgagc tcattttttt
+     1741 taagataatg aatctatatc taatttattg ccaccaaaat gttgtgcagc attcctgttc
+     1801 atagcagtta acaactgtaa gagctcactg tgatcagtat ttttatatca tgtaaaatat
+     1861 ctttaaaata aaaggcaaaa gtgtattgta gattgtgtac ccat
+//
+
