@@ -1,0 +1,47 @@
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                  ---  PhyML 3.3.3:3.3.20170530+dfsg-2  ---                                             
+                            http://www.atgc-montpellier.fr/phyml                                          
+                         Copyright CNRS - Universite Montpellier II                                 
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+• Sequence filename: 			VEGFD_final_mRNA_alignment.phylip
+• Data set: 				#1
+• Tree topology search : 		NNIs
+• Initial tree: 			BioNJ
+• Model of nucleotides substitution: 	HKY85
+• Number of taxa: 			50
+• Log-likelihood: 			-3299.57832
+• Unconstrained likelihood: 		-1242.36428
+• Parsimony: 				609
+• Tree size: 				2.38691
+• Discrete gamma model: 		Yes
+  - Number of classes: 			4
+  - Gamma shape parameter: 		0.410
+  - Relative rate in class 1: 		0.01817 [freq=0.250000] 		
+  - Relative rate in class 2: 		0.18914 [freq=0.250000] 		
+  - Relative rate in class 3: 		0.74182 [freq=0.250000] 		
+  - Relative rate in class 4: 		3.05087 [freq=0.250000] 		
+• Transition/transversion ratio: 	4.965
+• Nucleotides frequencies:
+  - f(A)= 0.27536
+  - f(C)= 0.23641
+  - f(G)= 0.25739
+  - f(T)= 0.23085
+
+• Run ID:				none
+• Random seed:				1596625310
+• Subtree patterns aliasing:		no
+• Version:				3.3.3:3.3.20170530+dfsg-2
+• Time used:				0h0m6s (6 seconds)
+
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ Suggested citations:
+ S. Guindon, JF. Dufayard, V. Lefort, M. Anisimova, W. Hordijk, O. Gascuel
+ "New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0."
+ Systematic Biology. 2010. 59(3):307-321.
+
+ S. Guindon & O. Gascuel
+ "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood"
+ Systematic Biology. 2003. 52(5):696-704.
+ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
